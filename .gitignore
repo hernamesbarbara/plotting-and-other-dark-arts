@@ -161,3 +161,4 @@ cython_debug/
 run_test.py
 naval_fate.py
 *.DS_Store
+data.csv
